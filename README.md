@@ -1,6 +1,6 @@
 # Hey there 👋
 
-🟢 **Open to Work — Data Analyst roles**
+🟢 **Open to Work in Data Analyst roles**
 
 I'm **Abelardo López**, a Data Analyst based in **Barcelona**.
 
